@@ -1,0 +1,138 @@
+================= STATIC =================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0233080000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0007150000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000200 ms 
+	Real time: 0.0047270000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000010 ms 
+	Real time: 0.0015320000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000008 ms 
+	Real time: 0.0011830000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000090 ms 
+	Real time: 0.0022730000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000001 ms 
+	User time: 0.0000000210 ms 
+	Real time: 0.0005410000 ms 
+
+Długość działania programu
+	System time: 450.0000000000 ms 
+	User time: 370.0000000000 ms 
+	Real time: 838.4672770000 ms 
+
+
+
+
+================= SHARED =================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000020 ms 
+	Real time: 0.0255720000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000007 ms 
+	User time: 0.0000000031 ms 
+	Real time: 0.0007110000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000002 ms 
+	Real time: 0.0012310000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000001 ms 
+	Real time: 0.0014320000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000001 ms 
+	Real time: 0.0011840000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000002 ms 
+	Real time: 0.0234500000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006450000 ms 
+
+Długość działania programu
+	System time: 500.0000000000 ms 
+	User time: 330.0000000000 ms 
+	Real time: 840.7063660000 ms 
+
+
+
+
+================ DYNAMIC ================
+
+Array with 1000 blocks created.
+	System time: 0.0000000001 ms 
+	User time: 0.0000000027 ms 
+	Real time: 0.0064060000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0007720000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000002 ms 
+	User time: 0.0000000013 ms 
+	Real time: 0.0014230000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000002 ms 
+	User time: 0.0000000011 ms 
+	Real time: 0.0015150000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000001 ms 
+	User time: 0.0000000009 ms 
+	Real time: 0.0011090000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000002 ms 
+	User time: 0.0000000010 ms 
+	Real time: 0.0232880000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006640000 ms 
+
+Długość działania programu
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 843.8331350000 ms 
+
+
+Wnioski:
+* tworzenie tablicy zajęłi stosunkowo dużo czasu, jednak kluczowy tutaj był jej rozmiar wynoszący 1000 bloków, należy jednak zauważyć, że czas wykonania 1000 operacji find i remove znacząco przerusłby czas utworzenia tablicy oraz utworzenie tablicy jest operacją jednorazową, w przeciwieństwie do pozostałych,
+* operacje find różniły się czasami wykonania, a różnice były podyktowane wymaganą głębokością przeszukiwania. Osttecznie otrzymano wyniki od 0.0007 ms do 0.0016 ms. 
+* różnice czasów wykonania operacji nie różnią się znacząco pomiędzy sposobami dołączania bibliotek, długość działania programu zawierającego bibliotekę dynamicznie dodawaną jest największa, 
+

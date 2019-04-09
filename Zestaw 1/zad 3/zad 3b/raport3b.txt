@@ -1,0 +1,643 @@
+====================== STATIC ======================
+====================== O  ======================
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0096810000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0014450000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0015700000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0012610000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0010400000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0023180000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006680000 ms 
+
+Długość działania programu
+	System time: 450.0000000000 ms 
+	User time: 370.0000000000 ms 
+	Real time: 838.0782060000 ms 
+
+====================== O1 ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0194970000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0025000000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0012980000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0011390000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0010600000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0020860000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006630000 ms 
+
+Długość działania programu
+	System time: 410.0000000000 ms 
+	User time: 400.0000000000 ms 
+	Real time: 819.0316580000 ms 
+
+====================== Os ======================
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0197710000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0027490000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0015160000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0014950000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0011210000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0022400000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0005630000 ms 
+
+Długość działania programu
+	System time: 390.0000000000 ms 
+	User time: 410.0000000000 ms 
+	Real time: 813.2694130000 ms 
+
+====================== O2 ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0199090000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0026680000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0011890000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0010740000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0010330000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0022340000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0007280000 ms 
+
+Długość działania programu
+	System time: 390.0000000000 ms 
+	User time: 420.0000000000 ms 
+	Real time: 818.5280510000 ms 
+
+====================== O3 ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0195190000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0026850000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0014970000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0010500000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0010620000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0020970000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0007320000 ms 
+
+Długość działania programu
+	System time: 410.0000000000 ms 
+	User time: 400.0000000000 ms 
+	Real time: 821.7759780000 ms 
+
+====================== SHARED ======================
+====================== O  ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0193740000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0027530000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0014100000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0195140000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0018950000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0232260000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006910000 ms 
+
+Długość działania programu
+	System time: 510.0000000000 ms 
+	User time: 290.0000000000 ms 
+	Real time: 818.0819860000 ms 
+
+====================== O1 ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0198320000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0028250000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0016650000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0012580000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0012960000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0051120000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006540000 ms 
+
+Długość działania programu
+	System time: 500.0000000000 ms 
+	User time: 300.0000000000 ms 
+	Real time: 820.1405580000 ms 
+
+====================== Os ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0220750000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0030510000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0013640000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0014520000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0011250000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0237200000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006310000 ms 
+
+Długość działania programu
+	System time: 510.0000000000 ms 
+	User time: 320.0000000000 ms 
+	Real time: 840.6192100000 ms 
+
+====================== O2 ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0225310000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0027750000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0012910000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0016370000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0009880000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0048310000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006370000 ms 
+
+Długość działania programu
+	System time: 480.0000000000 ms 
+	User time: 330.0000000000 ms 
+	Real time: 817.4818490000 ms 
+
+====================== O3 ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0221510000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0026010000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0014550000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0011680000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0011650000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0238720000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0007700000 ms 
+
+Długość działania programu
+	System time: 490.0000000000 ms 
+	User time: 320.0000000000 ms 
+	Real time: 828.8614320000 ms 
+
+===================== DYNAMIC =====================
+====================== O  ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0245320000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0030590000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0195480000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0014190000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0010460000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0235800000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006630000 ms 
+
+Długość działania programu
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 839.6471260000 ms
+
+====================== O1 ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0225470000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0028220000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0013990000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0019110000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0011510000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0235410000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006540000 ms 
+
+Długość działania programu
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 822.8066720000 ms 
+
+Długość działania programu
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 840.6471260000 ms
+
+====================== Os ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0291770000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0029630000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0015810000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0013970000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0011730000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0238990000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0187630000 ms 
+
+Długość działania programu
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 833.6471260000 ms 
+
+====================== O2 ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0139920000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0013250000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0010760000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0013090000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0009650000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0235940000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0186280000 ms 
+
+Długość działania programu
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 822.8066720000 ms 
+
+====================== O3 ======================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0162410000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0028850000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0012110000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0011850000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0010980000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0051810000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006150000 ms 
+
+Długość działania programu
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 820.8359120000 ms
+
+
+
+
+
+Wnioski:
+* we wszystkich wywołaniach, ze względu na dużą wydajność komputera (przez co małe czasy wykonania operacji) i niemożliwość odseparowania programu od pozostałej części systemu wyniki wyszły podobne, jednak widoczna jest tendencja tranowiąca, że przy coraz większej optymalizacji dostajemy coraz krótszy czas wykonania programu
+

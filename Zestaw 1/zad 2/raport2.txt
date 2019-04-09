@@ -1,0 +1,86 @@
+============================= STATIC =============================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0169030000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000009 ms 
+	Real time: 0.0014740000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000002 ms 
+	User time: 0.0000000010 ms 
+	Real time: 0.0021990000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0016700000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0012710000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000008 ms 
+	Real time: 0.0023230000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0005970000 ms 
+
+Długość działania programu
+	System time: 530.0000000000 ms 
+	User time: 390.0000000000 ms 
+	Real time: 939.2108270000 ms 
+
+
+
+============================= SHARED =============================
+
+Array with 1000 blocks created.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000014 ms 
+	Real time: 0.0059510000 ms 
+
+Search of file lib.a in /home successful. Result index 0.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0007360000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in /home successful. Result index 1.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000008 ms 
+	Real time: 0.0216330000 ms 
+
+Search of file main_d.c in ../.. successful. Result index 2.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0013650000 ms 
+
+Search of file tAkIpLiKnIeIsTnIeJe in ../.. successful. Result index 3.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000003 ms 
+	Real time: 0.0012370000 ms 
+
+Block with index 1 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000011 ms 
+	Real time: 0.0259130000 ms 
+
+Block with index 3 removed.
+	System time: 0.0000000000 ms 
+	User time: 0.0000000000 ms 
+	Real time: 0.0006460000 ms 
+
+Długość działania programu
+	System time: 570.0000000000 ms 
+	User time: 360.0000000000 ms 
+	Real time: 959.0089170000 ms 
+
