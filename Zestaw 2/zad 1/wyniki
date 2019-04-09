@@ -1,0 +1,265 @@
+ generate  5000 records  2 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys copy  5000 records  2 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+lib copy  5000 records  2 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys sort  5000 records  2 bytes
+user time: 2.2800000000000000 [s]    system time: 3.1000000000000000 [s]
+
+lib sort  5000 records  2 bytes
+user time: 1.5700000000000000 [s]    system time: 2.0400000000000000 [s]
+ 
+
+
+ generate  10000 records  2 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys copy  10000 records  2 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0100000000000000 [s]
+
+lib copy  10000 records  2 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys sort  10000 records  2 bytes
+user time: 9.3200000000000000 [s]    system time: 12.1700000000000000 [s]
+
+lib sort  10000 records  2 bytes
+user time: 6.3400000000000000 [s]    system time: 7.9300000000000000 [s]
+
+
+ ==================================================================== 
+
+
+ generate  5000 records  4 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys copy  5000 records  4 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+lib copy  5000 records  4 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys sort  5000 records  4 bytes
+user time: 2.3300000000000000 [s]    system time: 3.0800000000000000 [s]
+
+lib sort  5000 records  4 bytes
+user time: 1.6100000000000000 [s]    system time: 1.9700000000000000 [s]
+ 
+
+
+ generate  10000 records  4 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys copy  10000 records  4 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0100000000000000 [s]
+
+lib copy  10000 records  4 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys sort  10000 records  4 bytes
+user time: 9.1700000000000000 [s]    system time: 12.5500000000000000 [s]
+
+lib sort  10000 records  4 bytes
+user time: 6.0600000000000000 [s]    system time: 8.2800000000000000 [s]
+
+
+ ==================================================================== 
+
+
+ generate  5000 records  512 bytes
+user time: 0.0200000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys copy  5000 records  512 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0100000000000000 [s]
+
+lib copy  5000 records  512 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys sort  5000 records  512 bytes
+user time: 2.3200000000000000 [s]    system time: 3.0900000000000000 [s]
+
+lib sort  5000 records  512 bytes
+user time: 1.7700000000000000 [s]    system time: 2.7700000000000000 [s]
+ 
+
+
+ generate  10000 records  512 bytes
+user time: 0.0400000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys copy  10000 records  512 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0100000000000000 [s]
+
+lib copy  10000 records  512 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys sort  10000 records  512 bytes
+user time: 9.3700000000000000 [s]    system time: 12.3300000000000000 [s]
+
+lib sort  10000 records  512 bytes
+user time: 7.4300000000000000 [s]    system time: 10.9400000000000000 [s]
+
+
+ ==================================================================== 
+
+
+ generate  5000 records  1024 bytes
+user time: 0.0400000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys copy  5000 records  1024 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+lib copy  5000 records  1024 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys sort  5000 records  1024 bytes
+user time: 2.3100000000000000 [s]    system time: 3.0600000000000000 [s]
+
+lib sort  5000 records  1024 bytes
+user time: 1.9700000000000000 [s]    system time: 3.6000000000000000 [s]
+ 
+
+
+ generate  10000 records  1024 bytes
+user time: 0.0800000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys copy  10000 records  1024 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0200000000000000 [s]
+
+lib copy  10000 records  1024 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0100000000000000 [s]
+
+
+
+sys sort  10000 records  1024 bytes
+user time: 9.1100000000000000 [s]    system time: 12.6400000000000000 [s]
+
+lib sort  10000 records  1024 bytes
+user time: 8.1700000000000000 [s]    system time: 14.5600000000000000 [s]
+
+
+ ==================================================================== 
+
+
+ generate  5000 records  4096 bytes
+user time: 0.1600000000000000 [s]    system time: 0.0000000000000000 [s]
+
+
+
+sys copy  5000 records  4096 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0100000000000000 [s]
+
+lib copy  5000 records  4096 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0100000000000000 [s]
+
+
+
+sys sort  5000 records  4096 bytes
+user time: 2.4100000000000000 [s]    system time: 3.0200000000000000 [s]
+
+lib sort  5000 records  4096 bytes
+user time: 2.7700000000000000 [s]    system time: 9.5100000000000000 [s]
+ 
+
+
+ generate  10000 records  4096 bytes
+user time: 0.3200000000000000 [s]    system time: 0.0200000000000000 [s]
+
+
+
+sys copy  10000 records  4096 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0200000000000000 [s]
+
+lib copy  10000 records  4096 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0200000000000000 [s]
+
+
+
+sys sort  10000 records  4096 bytes
+user time: 9.0700000000000000 [s]    system time: 12.6400000000000000 [s]
+
+lib sort  10000 records  4096 bytes
+user time: 11.2500000000000000 [s]    system time: 40.1900000000000000 [s]
+
+
+ ==================================================================== 
+
+
+ generate  5000 records  8192 bytes
+user time: 0.3100000000000000 [s]    system time: 0.0200000000000000 [s]
+
+
+
+sys copy  5000 records  8192 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0200000000000000 [s]
+
+lib copy  5000 records  8192 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0300000000000000 [s]
+
+
+
+sys sort  5000 records  8192 bytes
+user time: 2.2700000000000000 [s]    system time: 3.1600000000000000 [s]
+
+lib sort  5000 records  8192 bytes
+user time: 2.9400000000000000 [s]    system time: 16.1400000000000000 [s]
+
+ 
+
+ generate  10000 records  8192 bytes
+user time: 0.6400000000000000 [s]    system time: 0.0300000000000000 [s]
+
+
+
+sys copy  10000 records  8192 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0400000000000000 [s]
+
+lib copy  10000 records  8192 bytes
+user time: 0.0000000000000000 [s]    system time: 0.0500000000000000 [s]
+
+
+
+sys sort  10000 records  8192 bytes
+user time: 9.2700000000000000 [s]    system time: 12.3800000000000000 [s]
+
+lib sort  10000 records  8192 bytes
+user time: 11.3200000000000000 [s]    system time: 59.2600000000000000 [s]
+
+
+
+Czas generowania i kopiowania danych jest praktycznie niezauważalny, sortowanie zajmuje za to znaczną ilość czasu ze wzglądu na złożoność kwadratową i przez to znaczną ilość wykonywanych operacji odczytu i zapisu.
+Funkcje systyemowe wypadają znacznie gorzej od bibliotecznych dla małych rozmiarów rekordów, lecz są szybsze dla dużych rozmiarów. Różnica ta może wynikać z faktu, że fread używa bufora, co przyspiesza czytanie małych danych, lecz dla dużych wymaga kilkukrotnego wczytywania, read() nie posiada bufora, co spowalnia wczytywanie małych danych, lecz jest bardziej wydajne dla dłużych.
+
