@@ -1,0 +1,7 @@
+ps | grep 6
+ls -a -l -S -A -h -i
+find . -name main
+ps | wc -l
+cat main.c | grep m | grep a | grep s | grep k| wc -w
+date +%F
+date +%A
