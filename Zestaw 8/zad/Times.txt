@@ -1,0 +1,51 @@
+=============== 1 THREAD ================
+FILTER_SIZE			METHOD			TIME [s]
+3x3					block 			0.022070
+3x3            	interleaved		0.022123
+10x10					block				0.258033
+10x10					interleaved		0.257140
+25x25					block				1.596639
+25x25					interleaved		1.597474
+50x50					block				6.329516
+50x50					interleaved		6.321524
+65x65					block				10.573034
+65x65					interleaved		10.577891
+
+=============== 2 THREADS ===============
+FILTER_SIZE			METHOD			TIME [s]
+3x3					block 			0.022125
+3x3            	interleaved		0.022115
+10x10					block				0.257455
+10x10					interleaved		0.257354
+25x25					block				1.598072
+25x25					interleaved		1.597472
+50x50					block				6.300754
+50x50					interleaved		6.278395
+65x65					block				10.606448
+65x65					interleaved		10.601031
+
+=============== 4 THREADS ===============
+FILTER_SIZE			METHOD			TIME [s]
+3x3					block 			0.022210
+3x3            	interleaved		0.022569
+10x10					block				0.257451
+10x10					interleaved		0.258107
+25x25					block				1.598458
+25x25					interleaved		1.599795
+50x50					block				6.264693
+50x50					interleaved		6.261630
+65x65					block				10.528304
+65x65					interleaved		10.534093
+
+=============== 8 THREADS ===============
+FILTER_SIZE			METHOD			TIME [s]
+3x3					block 			0.022629
+3x3            	interleaved		0.022693
+10x10					block				0.257869
+10x10					interleaved		0.259092
+25x25					block				1.600844
+25x25					interleaved		1.603380
+50x50					block				6.273635
+50x50					interleaved		6.269899
+65x65					block				10.487605
+65x65					interleaved		10.474568
